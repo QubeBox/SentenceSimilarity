@@ -21,9 +21,9 @@ TOPSIS - Technique for Order of Preference by Similarity to Ideal Solution is us
 These are some of the models that are used for sentence similarity and are picked from [HuggingFace.co](https://huggingface.co/).
 
 ## Description of various files
-- data.csv - CSV file containing evaluation metrics for each model.
-- result.csv - CSV file with ranked results in tabular format
-- BarChart.png - Bar chart visualizing the models for data.csv.
+- scores.csv - CSV file containing evaluation metrics for each model.
+- topsis_result.csv - CSV file with ranked results in tabular format
+- similarity_comparision.png - Bar chart visualizing the models for data.csv.
 
 ## Result
 - Topsis Score and Rank
