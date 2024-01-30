@@ -39,7 +39,7 @@ These are some of the models that are used for sentence similarity and are picke
 
 - Bar Chart
   
-![Bar Chart](images\similarity_comparison.png)
+![Alt text](images/similarity_comparison.png)
 
 ## Analysis
 From the Topsis score comparison of the models, we get `sentence-transformers/clip-ViT-L-14` to be the best model for sentence similarity among all the chosen models.
